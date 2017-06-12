@@ -25,3 +25,7 @@ Lists of B-corps and Govt Tech companies: (from Denice)
 ### B Corp like (from Denice)
 - https://www.smallgiants.org
 - https://www.tugboatinstitute.com
+
+## Business Models
+### Resources
+- http://www.socialbusinessmodelcanvas.com/
