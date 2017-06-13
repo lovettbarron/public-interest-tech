@@ -1,0 +1,29 @@
+- Clear problem statement and write-up of research focus (June 23)
+- - Why is this an issue, esp. with foundation funding?
+- - What existing ecosystems represent an alternative way?
+- - Who are the primary thinkers in this space?
+- - Why hasn’t this been solved yet?
+- Initial map of ecosystem (June 30)
+- People in NA studying this and who to work with?
+- - Dahna Goldstein & Bretton Wood crew?
+- - Denice
+- - Alan
+- People in own network studying this?
+- - Susan + Diego?
+- - Ideo.org?
+- - Rotman School folk ,eg. Rowley?
+- Key scholars and thinkers in this space
+- - Roger Martin
+- - Ian MacMillan
+- - Umaire Haque
+- - Yvon Chouinard (Patagonia)
+- - Alex Osterwalder
+- Existing & Understood Business models
+- - B Corp
+- - Benefit Corp
+- - C Corp w/ multiple bottom line
+- - Companies and Organizations who represent successful and failed social product ventures.
+- - Foundations and VCs that are either succeeding or failing at funding social product ventures
+- Non-American examples that are succeeding? Failing?
+- Outline for and deadlines around end of summer goals (June 30)
+- One or two blog posts about this research (June 20 and 30)
